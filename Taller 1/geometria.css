@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+.botonestriangulo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.cajasPerimetroArea{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    flex-direction: row;
+}
+
+.cajasPerimetroArea button:nth-child(1){
+    margin-right: 20px;
+}
+
+.botonescirculo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.cajascirculo{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    flex-direction: row;
+}
+
+.cajascirculo button:nth-child(1){
+    margin-right: 20px;
+}
+
+.cajascirculo button:nth-child(3){
+    margin-left: 20px;
+}
+

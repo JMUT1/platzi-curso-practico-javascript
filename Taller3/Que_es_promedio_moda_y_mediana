@@ -1,0 +1,18 @@
+PROMEDIO
+
+Promedio o llamada tambien como media aritmetica
+
+Se saca la media aritmetica se saca sumando los articulos que tenemos y dividiendolos entre el numero de ellos
+
+La media aritmetica no funciona bien sacando la media aritmetica // promedio en SUELDOS
+----------------------------------------------------
+MEDIANA
+
+La mediana ordenamos la lista de menor a mayor o mayor o menor y se trata de encontrar el numero que tenemos en medio
+
+En caso de tener un listado donde sea par, osea, tendremos dos numeros a la mitad, eso quieres decir que sumaremos el valor de dichos numeros y lo dividiremos a la mitad
+
+--------------------------------------------------
+MODA
+
+El elemento que mas se repite en la lista en un listado // puede existir mas de una moda, no tiene que ser en solo valor
